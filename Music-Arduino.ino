@@ -1,3 +1,5 @@
+/* Written by Brihi Joshi, in reference to www.arduino.cc for the working of the various sensors used.*/
+
 #include <Servo.h>
 Servo servo1;
 int buzzpin=9; //The output from the Piezzo Buzzer!
